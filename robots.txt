@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iporuaya.github.io/NDr/sitemap_index.txt
+Sitemap: https://iporuaya.github.io/TfS/sitemap_index.txt
+Sitemap: https://iporuaya.github.io/WLd/sitemap_index.txt
+Sitemap: https://iporuaya.github.io/opW/sitemap_index.txt
